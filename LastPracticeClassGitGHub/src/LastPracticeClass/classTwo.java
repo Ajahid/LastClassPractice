@@ -7,7 +7,13 @@ public class classTwo {
 }
   
   
-  
+  public static void methodA () {
+	  
+	  
+	  System.out.println("Ajahid Branch Code");
+	  
+	  
+  }
   
   
   
